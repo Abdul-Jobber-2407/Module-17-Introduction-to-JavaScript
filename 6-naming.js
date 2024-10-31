@@ -22,7 +22,7 @@ addRESs
 ADDress 
 
 // 6.how to write a long variable name
-var my current home address = "Andorkila Bandobon Sundorban kata bon";
+var my current home address = "Andorkila Bandobon Sundorban kata bon"; // invalid 
 var mycurrenthomeaddress = "Andorkila Bandobon Sundorban kata bon";
 var my_current_home_address = "Andorkila Bandobon Sundorban kata bon";  // snake case
 var myCurrentHomeAddress = "Andorkila Bandobon Sundorban kata bon"; // camel case 
